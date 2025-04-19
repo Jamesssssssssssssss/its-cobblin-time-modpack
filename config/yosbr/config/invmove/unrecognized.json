@@ -1,0 +1,24 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true,
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackScreen": true,
+    "net.minecraft.class_433": true,
+    "folk.sisby.antique_atlas.gui.AtlasScreen": false,
+    "net.p3pp3rf1y.sophisticatedstorage.client.gui.StorageScreen": true,
+    "net.minecraft.class_429": true,
+    "net.minecraft.class_458": true,
+    "net.minecraft.class_6599": true,
+    "com.cobblemon.mod.common.client.gui.pokedex.PokedexGUI": true,
+    "net.minecraft.class_5375": true,
+    "net.minecraft.class_410": true,
+    "com.terraformersmc.modmenu.gui.ModsScreen": true
+  },
+  "hideBackground": {
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackScreen": true,
+    "folk.sisby.antique_atlas.gui.AtlasScreen": true,
+    "net.p3pp3rf1y.sophisticatedstorage.client.gui.StorageScreen": true,
+    "com.cobblemon.mod.common.client.gui.pokedex.PokedexGUI": true
+  }
+}

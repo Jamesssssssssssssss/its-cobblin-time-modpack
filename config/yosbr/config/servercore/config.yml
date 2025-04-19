@@ -1,0 +1,5 @@
+features:
+        xp-merge-radius: 1  
+        item-merge-radius: 0.75
+        lobotomize-villagers:
+                enabled: true 
