@@ -1,13 +1,13 @@
 name = "Supplementaries"
-filename = "supplementaries-1.21-3.0.37-beta-fabric.jar"
+filename = "supplementaries-1.21-3.1.7-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/VbvO5MWb/supplementaries-1.21-3.0.37-beta-fabric.jar"
+url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/gTcgfFjQ/supplementaries-1.21-3.1.7-fabric.jar"
 hash-format = "sha512"
-hash = "73d9d1b10bcb552ffc788e8107033196aa4b070ed35bfbded87cf8232e612dd0465082cba7f57f3cce0872c500e2571ea26c09b08b035979ff9bcdf9dc672918"
+hash = "25093a23b2501219b75407856f7193907979a5c4ec8843d8d27ce5fc661e6abbd0acc57eaec14f58f9b695d471758f7eeaf4798df57b2097305f15b9f29ef095"
 
 [update]
 [update.modrinth]
 mod-id = "fFEIiSDQ"
-version = "VbvO5MWb"
+version = "gTcgfFjQ"

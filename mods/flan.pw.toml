@@ -1,13 +1,13 @@
 name = "Flan"
-filename = "flan-1.21.1-1.11.5-fabric.jar"
+filename = "flan-1.21.1-1.11.6-fabric.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/Si383TIH/versions/rECtdkPy/flan-1.21.1-1.11.5-fabric.jar"
+url = "https://cdn.modrinth.com/data/Si383TIH/versions/fc1KF6p8/flan-1.21.1-1.11.6-fabric.jar"
 hash-format = "sha512"
-hash = "35d68465e1e8152ffc716ed535113272ebf6ad46eb9c7708faa89984f5195c73badf1fd578148501109e90a480e1fbd19358a4da3e4359c407254c9ea70c8b7e"
+hash = "c4c3b3d9e049d2b18a35aebf3e6f5d239d30d0d1a8376c05ba4fdc1ed5cf65704944f22e2239cd7b3f866ffd1196703802f58d2d58a5d3a26fea8a7391dc246b"
 
 [update]
 [update.modrinth]
 mod-id = "Si383TIH"
-version = "rECtdkPy"
+version = "fc1KF6p8"
