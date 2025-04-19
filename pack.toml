@@ -1,6 +1,6 @@
 name = "It's Cobblin' Time"
 author = "Jamesssssssss"
-version = "1.1.5+1"
+version = "1.1.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "f3c2c99090d099c068ffb760fe6833a35f953a3702caedb0d776d948c36857f7"
 
 [versions]
-fabric = "0.16.10"
+fabric = "0.16.13"
 minecraft = "1.21.1"
