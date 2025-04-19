@@ -147,6 +147,16 @@ hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
+file = "mods/cobblecuisine.pw.toml"
+hash = "4141713858e6dd08c66371e65a639e0e0e99835812c8c07de58725809c3b64b6"
+metafile = true
+
+[[files]]
+file = "mods/cobblefurnies.pw.toml"
+hash = "127162cc7ed4c495f6411fa119f90b08c9e7d0ba1cb5b0c7774ab3cf4a35e716"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
 hash = "ebfdc72c6ec668e942187cf3d39ae4f644d400b7f5d74c69c320192aef1ade27"
 metafile = true
@@ -169,6 +179,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-pokemon-badges.pw.toml"
 hash = "f9fca804b47d62948dc79c800723fa4e2e8d114171af6c19c901a59b99fbb073"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-pokenav.pw.toml"
+hash = "ffbadb17c3a832a972893996e70a689221aff3e7c9b57e59fc6e9fe4f453e160"
 metafile = true
 
 [[files]]
@@ -294,6 +309,11 @@ metafile = true
 [[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "7308954ec68ead6840f1c5774a7b1465c0f8c8f8cf110ee8ba77952229930ffa"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "a0a4120479b3a00265797ba4ab4b351e7ea6730f1a0394d069da0d92165a3bd9"
 metafile = true
 
 [[files]]
