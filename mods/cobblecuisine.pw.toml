@@ -1,13 +1,13 @@
 name = "CobbleCuisine"
-filename = "CobbleCuisine-1.1.5.jar"
+filename = "CobbleCuisine-1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dlx62Wp3/versions/LDTZHE4N/CobbleCuisine-1.1.5.jar"
+url = "https://cdn.modrinth.com/data/dlx62Wp3/versions/qCTnfPhI/CobbleCuisine-1.2.jar"
 hash-format = "sha512"
-hash = "3f68df186195e5ea5ccadd06321e52ab10f409b22831b440ba272acc47b5eab5447aeb998999f0924759635f8cbc3544774d77d742e982dd8ea05cd54d26dec1"
+hash = "64fcd4e1da1cfdb328445748309012fe3d274ab70ece37ce9399c75c4223357eefa9f4d6afa98b684281ea1d1e93edcc6fa06ad93507ec511b69d5050b3dd103"
 
 [update]
 [update.modrinth]
 mod-id = "dlx62Wp3"
-version = "LDTZHE4N"
+version = "qCTnfPhI"
