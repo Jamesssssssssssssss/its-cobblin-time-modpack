@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+
+[[files]]
 file = "config/yosbr/config/badoptimizations.txt"
 hash = "65930fd9f6a7087c1c9e46e5e16b62221ab23ab2f7464cbc0865309336289c2e"
 
@@ -11,6 +15,18 @@ hash = "fe198a6af28dbfd03bf9165343ab2bbef4f66a1dfd69801b07cd78bf5a123620"
 [[files]]
 file = "config/yosbr/config/cobblemon/main.json"
 hash = "87c9260686e18d3e6bd3948be2ffdb62ecd5e46e386ee3e6f96481cbf8252a90"
+
+[[files]]
+file = "config/yosbr/config/cobblemon/unchained/hiddenBooster.json"
+hash = "5e926915ecf30c16f44ca501ae5aa05ea4baabda13a2ceb4cef727125e02f129"
+
+[[files]]
+file = "config/yosbr/config/cobblemon/unchained/ivBooster.json"
+hash = "1801b27416813ecccaf6da5b10d9b2c3e4238f1e3da7783020868a181b7f5dbe"
+
+[[files]]
+file = "config/yosbr/config/cobblemon/unchained/shinyBooster.json"
+hash = "bb470b23ed654ef93f03b30f7e90f872adffec6e4f1ddacc2c9faf5012b0ed07"
 
 [[files]]
 file = "config/yosbr/config/cobblemonintegrations-common.toml"
